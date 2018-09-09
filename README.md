@@ -7,11 +7,15 @@ $cd code
 
 $python3 nb_inmemory.py
 In nb_inmemory the paths are specified as 
+
 TRAINING_FILE_PATH='/scratch/ds222-2017/assignment-1/DBPedia.full/full_train.txt'
+
 VALIDATION_FILE_PATH='/scratch/ds222-2017/assignment-1/DBPedia.full/full_devel.txt'
+
 TEST_FILE_PATH='/scratch/ds222-2017/assignment-1/DBPedia.full/full_test.txt'
 
 Change them as per requirement
+
 output log will be generated in out_nb_inmemory.log
 #############################################################################################################################################
 
