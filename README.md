@@ -6,6 +6,7 @@ To run naive bayes in local mode use
 $cd code
 
 $python3 nb_inmemory.py
+
 In nb_inmemory the paths are specified as 
 
 TRAINING_FILE_PATH='/scratch/ds222-2017/assignment-1/DBPedia.full/full_train.txt'
